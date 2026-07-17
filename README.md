@@ -13,5 +13,3 @@ Goals:
   - Hard and soft voting classifiers using Logistic Regression, KNN, SVC , Gaussian Naive Bayes, Decision Tree
   - Hard and soft voting classifiers using Decision Tree, Random Forest, and Extra Trees
   - Hard and soft voting classifiers using Logistic Regression, KNN, and SVC
- 
-Developed as part of the **Applied Machine Learning** course at **Stevens Institute of Technology**
